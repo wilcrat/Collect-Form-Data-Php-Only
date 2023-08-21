@@ -8,6 +8,10 @@
             <option value="Uganda">Uganda</option>
             <option value="Tanzania">Tanzania</option>
             <option value="Rwanda">Rwanda</option>
+
+            <input type="submit" value="Register">
         </select>
     </form>
+
+
 </html>
